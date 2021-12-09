@@ -1,0 +1,229 @@
+.page
+{
+	border: solid 2px;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+.div
+{
+	border: solid 2px;
+	text-align: center;
+	font-family: verdana;
+	font-family: 10px;
+	background-color: purple;
+	color: black;
+
+	
+}
+.commun
+{
+	
+	width: 100%;
+	height: 500px;
+
+}
+.Lien
+{	
+	float: left;
+	border: solid 2px black;
+	text-align: center;
+	margin: 5px;
+	width: 20%;
+	height: 95%;
+	background-color: lightblue;
+
+}	
+.Affichage
+{
+	float: right;
+	border: solid 2px black;
+	text-align: center;
+	margin: 5px;
+	width: 	77%;
+	height: 95%;
+	background-color: purple;
+}
+.photo
+{
+	border: solid 0px;
+	float: right;
+	padding: 20px;
+	border-radius: 10px;
+	width: 100px;
+	height: 100px;
+}
+.PHOTO
+{
+	height:130px;
+	width: 130px;
+	float: right;
+}
+.Basdepage
+{
+	border: solid 2px;
+	text-align: center;
+	font-family: verdana;
+	font-family: 10px;
+	height: 60px;
+	width: 995px;
+	background-color: purple;
+	font-size: 22px;
+
+}
+.p1{
+	background-color:white;
+ 	 border:  solid 2px;
+  	color: black ; 
+  	margin: auto;
+  	text-align: center;
+  	text-decoration: none;                  
+  	font-size: 150%;
+  	cursor: pointer;
+  	border-color: black;
+  	border-radius: 4px;   
+  	width: 150px; 
+  	cursor: pointer;
+}
+.p1 a{
+text-decoration: none; /* Supprimer le soulignage du lien */
+line-height: 42px; /* Changer la hauteur de la ligne d'écriture */
+color: #fff; /* Couleur du texte blanche */
+}
+.p1:hover {
+background-color: #34a46c; /* On modifie la couleur du fond au passage de la souris */
+padding: 5px;
+}
+
+.p2
+{
+background-color:white;
+  border: solid 2px;
+  color: black; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;                 
+  font-size: 150%;
+  cursor: pointer;
+  border-color: black;
+  border-radius: 4px;
+  width: 150px; 
+}
+.p2 a{
+text-decoration: none; /* Supprimer le soulignage du lien */
+line-height: 42px; /* Changer la hauteur de la ligne d'écriture */
+color: #fff; /* Couleur du texte blanche */
+}
+.p2:hover {
+background-color: yellow; /* On modifie la couleur du fond au passage de la souris */
+padding: 5px;
+}
+.p3
+{
+background-color:white;
+  border: solid 2px;
+  color: black ; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;                
+  font-size: 150%;
+  cursor: pointer;
+  border-color: black;
+  border-radius: 4px;
+  width: 150px; 
+}
+.p3 a{
+text-decoration: none; /* Supprimer le soulignage du lien */
+line-height: 42px; /* Changer la hauteur de la ligne d'écriture */
+color: #fff; /* Couleur du texte blanche */
+}
+.p3:hover {
+background-color: skyblue; /* On modifie la couleur du fond au passage de la souris */
+padding: 5px;
+}
+.p4
+{
+background-color: white;
+  border: solid 2px;
+  color: black ; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;                 
+  font-size: 150%;
+  cursor: pointer;
+  border-color: black;
+  border-radius: 4px;  
+  width: 150px; 
+}
+.p4 a{
+text-decoration: none; /* Supprimer le soulignage du lien */
+line-height: 42px; /* Changer la hauteur de la ligne d'écriture */
+}
+.p4:hover {
+background-color: red; /* On modifie la couleur du fond au passage de la souris */
+padding: 5px;
+}
+.i-frame
+{
+	float: center;
+	height: 95%;
+	width: 77%;
+	background-color: white;
+	
+}
+.acceuil{
+	background-color: white;
+  border: solid 2px;
+  color: black ; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 10px;                
+  font-size: 150%;
+  cursor: pointer;
+  border-color: black;
+  overflow: 2px;
+  border-radius: 7px;
+}
+.cv{
+background-color: white;
+  border: solid 2px;
+  color: black ; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 10px;                
+  font-size: 150%;
+  cursor: pointer;
+  border-color: black;
+  overflow: 2px;
+  border-radius: 7px ;
+}
+.cours{
+background-color: white;
+  border: solid 2px;
+  color: black ; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 10px;                
+  font-size: 150%;
+  cursor: pointer;
+  border-color: black;
+  overflow: 2px;
+  border-radius: 7px;
+}
+.projet{
+	background-color: white;
+  border: solid 2px;
+  color: black ; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 10px;                
+  font-size: 150%;
+  cursor: pointer;
+  border-color: black;
+  overflow: 2px;
+  border-radius: 7px;
+}
